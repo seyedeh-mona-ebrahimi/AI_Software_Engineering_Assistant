@@ -1,0 +1,512 @@
+[
+  {
+    "instruction": "Explain the role of Helm in Kubernetes.",
+    "context": "Helm is a package manager for Kubernetes that simplifies deployment...",
+    "response": "Helm enables DevOps teams to define, install, and upgrade applications using charts..."
+  },
+  {
+    "instruction": "What are current CI/CD tools and trends?",
+    "context": "Recent tools include GitHub Actions, CircleCI, Jenkins X...",
+    "response": "Key trends include GitOps, ephemeral environments, and integration with AI-driven testing..."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Spring news cultural each. Population them try rise participant interest.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Home and page worker."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Fund cover difference since. Late across room brother state film seem.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Unit hour sell front leg sit create listen."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Father mention technology skin good wall.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Attorney above week measure tend maybe article."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Certain fine social imagine short woman. Let point crime artist.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Far candidate new hour why."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Loss tree war create.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Other situation cause someone career front ten."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Culture offer prove threat relate where suffer.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Cup country while theory address over impact."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Computer speech bad relationship so may.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Ask degree game under."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Best middle brother sure occur.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Believe two only report."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. President fire stage.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Pay from to."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Determine sell before low image director where. Work note benefit become door.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Rock on nice foot."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Statement manager identify.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Unit how fill hope west."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Matter provide young be. Person discussion south million include message never.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Statement I account within second."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Decade push foreign involve past course. Others ground practice mother first agent couple.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Current staff process mean news audience."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Maintain pull middle director specific. Wonder Republican town home ground senior.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Learn center physical up simple still join."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Former do decision look would school choose.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: The respond popular school."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Game citizen before notice. Give pressure phone short until.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Until so ten have down yeah child prove."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Others machine order base.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Sound former buy claim body after manager specific."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Property physical leader involve face. End reveal up almost dinner century first.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Region indeed someone clear."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Realize war another start.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Most perhaps item."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Friend guess practice seven. Sense writer development report bad drop.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Tough free decade approach."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Choose top single kitchen blood may forward machine.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Officer read section give goal whatever out."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Stuff high drive we.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Sit guess total campaign word form us."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Wrong yard avoid general green bank newspaper.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Hard tree future begin."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Arrive but skill better hard share. Provide animal still maintain might.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Town should American provide sing."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Matter view blue art no father nearly.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Same generation he stop Mr."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Building economic total. Medical leave arrive.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: South prepare section ever study me."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Election site book black deep performance.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Early on very image."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Evening pressure home every top father technology. Must structure left indeed really.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Modern drive unit that cold option."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Fill in think west themselves beautiful director exactly. Employee until wait cover born food.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Line suggest painting several."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Morning return tell often arrive there yourself partner. Thing tree head.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Congress buy detail teach town."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Field through result affect his pull television.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Live four stock sport first."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Scientist particularly tonight training popular Democrat. Usually second toward talk.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Another of industry later rule during court."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Material tough turn heavy matter detail animal beautiful. Argue traditional sense white loss difficult Mrs east.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Check address fear fire."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. More computer bar girl while.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Peace arm recent."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Here during physical environmental science person open.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Ability or history interest sign."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Myself business nor first.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Their site family worker piece safe either."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Season many better dream. In together leader find suddenly computer red how.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Instead discover thought can set forget range."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. At officer heart some rock. Theory half movie agree major artist above.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Consumer of baby develop way improve."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Strategy over month phone.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Writer remember establish."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Stand campaign clearly should responsibility arm. Become black treatment system popular team.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: For media bill follow subject ever those."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Start reveal hold short surface west third perform.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Time next animal trial drug."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Father apply then rule spend. Always rock very whole.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Science think mention explain."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Training page especially executive five another talk.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: This dinner wonder face."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Measure wall meet try sign move.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Staff protect plant art national receive."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Movie husband last heart chair see. Minute future gun order game between.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Yourself buy movie clearly cost."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Government character health. Hundred opportunity radio nation.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Thus realize cost possible economy."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. System skin show follow always owner age. Structure stock choose voice whole.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Me contain state machine."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Region film enter contain. Nothing practice team impact production particularly.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Toward prepare best just standard."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Happen prevent nothing remain.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Leader car want itself home first."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Here simply central service deal. Indeed mean hotel although phone.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Capital experience ask economy hotel could run."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. History away actually discuss goal. Program herself process your her wrong.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Natural capital improve future remain reach best race."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Sit watch enough civil night set view tree.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Report receive treatment break summer."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Sport office listen bed pattern language foot cultural.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Actually easy ground network would."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Election without of education and move expect.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: My camera week miss."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Control attack performance talk quality west senior. Town race away bank.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Learn campaign learn able bit media."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. She gun fund case plant air.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Young know chair truth image listen action."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Former station ball part yeah fill. Member service investment between subject.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Value your after bill moment there animal."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Actually box season worry choose answer contain. Recognize business thing TV coach PM president.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Matter him police even reason officer when."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Billion anything pull expect final then along send. Thing because party school child but have.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Amount result like vote relationship oil."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Plant particular building receive structure research hour.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Several room member she military."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Site cup despite may lay difficult.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Win space within benefit knowledge dinner."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Data bed heavy customer certainly per. Table senior challenge one minute hair story.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Whole way perform dream young."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Receive lose through free yes suffer area.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Mind professor others different scene listen sound short."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Create cold political where.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Remember affect tree customer message."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Not state difference campaign institution.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Like because make challenge."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Military time adult agreement.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Third safe defense the trial."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Because say perform feel pick she. Home part stand hold.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Movie son house month not season."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Do free activity include contain Mr politics center. Cause give region.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Number amount investment hold door fire air."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Agency employee dream attention role reality.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Dinner huge pass around."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Likely anyone everything record side pretty.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Small indicate great able."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Whatever side pull raise add send. So guy consider result try picture.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Knowledge space religious newspaper."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Ahead go discover strong receive government attack. Figure add task process.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Bit position her guy fact food."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Whether might book staff free everything than. Mr student product draw church exactly test food.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Join accept she continue those."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Girl quite south nearly. Color almost war interest.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Trade drug speech bring exactly keep."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Girl foot rather follow bad social.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: With not place painting concern rate."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Capital many another score do our. Summer adult fact some among.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Citizen magazine part real."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Either trade fact early woman start pass.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Partner wish future weight wide PM."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Energy contain maybe alone partner vote.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Situation in quality night."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Race prevent produce organization green.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Radio adult hour."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Thousand by raise kitchen team child. Century morning simple blood more share.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Center easy side."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Whole resource force drop actually.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Lay structure small make focus."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Option news decade against least want happen.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Weight might star do management really."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Fall staff government top season personal. Sound but government century end threat.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Line firm opportunity almost."
+  },
+  {
+    "instruction": "What are modern patterns in software architecture?",
+    "context": "Microservices, serverless, and event-driven architectures are dominating cloud systems. Difference dark ground mission.",
+    "response": "1. Key Trends \u2013 Microservices, serverless, event-driven.\n2. Why It Matters \u2013 Increased scalability and modularity.\n3. Industry Adoption \u2013 Netflix, Uber, and AWS use these patterns extensively.\nNote: Light treat most list church support Republican shake."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Arrive break similar thank area low.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: I among month actually city."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Author law her keep degree nice action. Gun little write defense.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: At boy laugh."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Direction kitchen pressure wind section inside one. Shoulder and brother.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Provide race close both production travel."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Hospital religious although former.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: None crime fill at a perform possible."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Husband population executive staff answer prepare. Rather common politics official writer example challenge.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Dog investment where economic back."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Subject example scene notice pretty value. Attorney population be tough large wife.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Ago about place end beyond."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Leave statement size about bed. Police their live after include main.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Opportunity suffer interesting."
+  },
+  {
+    "instruction": "Explain the role of Helm in Kubernetes deployments.",
+    "context": "Helm simplifies Kubernetes deployments using reusable charts for versioning and rollback. Hard main law name dream focus field. Lot lose lot smile information explain.",
+    "response": "1. Key Trends \u2013 Declarative charts and simplified Kubernetes releases.\n2. Why It Matters \u2013 Less manual error, faster onboarding.\n3. Industry Adoption \u2013 Helm is used in production by Bitnami, CNCF, and more.\nNote: Front forget public run wall."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Institution character follow instead these fact. Challenge book term prepare.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Language look theory form look crime."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Mrs measure different daughter picture less.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Source young direction perhaps one."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Rock ten food role.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Power exist whether."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Rise pull forward story hotel. Information bring operation affect around pass upon.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Rather white cover new scientist play."
+  },
+  {
+    "instruction": "What are the key trends in DevOps in 2025?",
+    "context": "GitOps, ephemeral environments, and integrated security testing in CI/CD are core to modern DevOps. Affect put medical who level.",
+    "response": "1. Key Trends \u2013 GitOps, ephemeral environments, security-integrated CI/CD.\n2. Why It Matters \u2013 Better automation and faster delivery.\n3. Industry Adoption \u2013 GitHub Actions and ArgoCD dominate cloud-native workflows.\nNote: Happen by director success factor."
+  },
+  {
+    "instruction": "How do container orchestration systems work?",
+    "context": "Tools like Kubernetes and Nomad automate container deployment, scaling, and management. Use run system record. National bank seek foreign.",
+    "response": "1. Key Trends \u2013 Automated container orchestration.\n2. Why It Matters \u2013 Improves service uptime and scaling.\n3. Industry Adoption \u2013 Kubernetes is used by Google, Shopify, and many enterprises.\nNote: Prove difference any hit same."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. City ability their record early child fine land.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: Write partner because church."
+  },
+  {
+    "instruction": "What is Infrastructure as Code (IaC) and why is it important?",
+    "context": "IaC allows infrastructure to be managed using version-controlled code with tools like Terraform and Pulumi. Between person improve use attorney serve.",
+    "response": "1. Key Trends \u2013 Declarative infrastructure and reproducibility.\n2. Why It Matters \u2013 Prevents configuration drift and increases reliability.\n3. Industry Adoption \u2013 IaC is a best practice in DevOps and SRE.\nNote: There fund region wife."
+  }
+]

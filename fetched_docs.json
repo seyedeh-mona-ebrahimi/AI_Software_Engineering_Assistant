@@ -1,0 +1,366 @@
+[
+  {
+    "id": "8309aa7c16309d9561ce3f49ff98898f",
+    "text": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "source": "GitHub",
+    "link": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "timestamp": "2025-03-23T15:43:12.706598"
+  },
+  {
+    "id": "d93a23b634dc6547ef8ff3c63f2e8412",
+    "text": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "source": "GitHub",
+    "link": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "timestamp": "2025-03-23T15:43:12.706611"
+  },
+  {
+    "id": "75b8ffb697deeeabfb61bf273ceaf0c6",
+    "text": "A curated list of awesome Go frameworks, libraries and software",
+    "source": "GitHub",
+    "link": "https://github.com/avelino/awesome-go",
+    "timestamp": "2025-03-23T15:43:12.706615"
+  },
+  {
+    "id": "e1658efd6ac7cb59df410d5c0e7e0256",
+    "text": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+    "source": "GitHub",
+    "link": "https://github.com/f/awesome-chatgpt-prompts",
+    "timestamp": "2025-03-23T15:43:12.706618"
+  },
+  {
+    "id": "d810aa18557406d6ebd7d88aba4f8b67",
+    "text": ":white_check_mark:  The Node.js best practices list (July 2024)",
+    "source": "GitHub",
+    "link": "https://github.com/goldbergyoni/nodebestpractices",
+    "timestamp": "2025-03-23T15:43:12.706621"
+  },
+  {
+    "id": "e5f96de894fe58ce860f0729842f6549",
+    "text": "Unexpected errors while using docker",
+    "source": "Stack Overflow",
+    "link": "https://stackoverflow.com/questions/79526490/unexpected-errors-while-using-docker",
+    "timestamp": "2025-03-23T15:43:12.923686"
+  },
+  {
+    "id": "69a50f64c75a794e9dfe15e24c87b434",
+    "text": "Invalid tag: missing manifest digest when exporting nx docker image to GitLab docker container using Azure DevOps CI",
+    "source": "Stack Overflow",
+    "link": "https://stackoverflow.com/questions/76654491/invalid-tag-missing-manifest-digest-when-exporting-nx-docker-image-to-gitlab-do",
+    "timestamp": "2025-03-23T15:43:12.923708"
+  },
+  {
+    "id": "14614cc69a02676f7bdfa7d2ac01dfa1",
+    "text": "Splunkforwarder Startup Error in Docker containers",
+    "source": "Stack Overflow",
+    "link": "https://stackoverflow.com/questions/79486010/splunkforwarder-startup-error-in-docker-containers",
+    "timestamp": "2025-03-23T15:43:12.923721"
+  },
+  {
+    "id": "fcf6c01d4e297349a1d834022acfbebb",
+    "text": "Alternative to Scripting.FilesSystemObject in Powershell",
+    "source": "Stack Overflow",
+    "link": "https://stackoverflow.com/questions/75875307/alternative-to-scripting-filessystemobject-in-powershell",
+    "timestamp": "2025-03-23T15:43:12.923729"
+  },
+  {
+    "id": "74ebe0dd8f4c6b680972966ccecec72f",
+    "text": "How to Reduce the Size of a Nest.js Docker Container Built with a Multi-Stage Dockerfile?",
+    "source": "Stack Overflow",
+    "link": "https://stackoverflow.com/questions/79517843/how-to-reduce-the-size-of-a-nest-js-docker-container-built-with-a-multi-stage-do",
+    "timestamp": "2025-03-23T15:43:12.923737"
+  },
+  {
+    "id": "9a740f9d409d6a64bada2eba9de33c1a",
+    "text": "Survey on Evaluation of LLM-based Agents",
+    "source": "ArXiv",
+    "link": "https://arxiv.org/format/2503.16416",
+    "timestamp": "2025-03-23T15:43:13.027590"
+  },
+  {
+    "id": "6878b7b569d4d89e41454656726d5e8f",
+    "text": "The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination",
+    "source": "ArXiv",
+    "link": "https://arxiv.org/format/2503.16402",
+    "timestamp": "2025-03-23T15:43:13.027615"
+  },
+  {
+    "id": "0e4711c5c81bbb77ed1dcfc755e0563f",
+    "text": "Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation",
+    "source": "ArXiv",
+    "link": "https://arxiv.org/format/2503.16385",
+    "timestamp": "2025-03-23T15:43:13.027631"
+  },
+  {
+    "id": "a8516d7121bbae109269baff4f9b5333",
+    "text": "Reinforcement Learning-based Heuristics to Guide Domain-Independent Dynamic Programming",
+    "source": "ArXiv",
+    "link": "https://arxiv.org/format/2503.16371",
+    "timestamp": "2025-03-23T15:43:13.027644"
+  },
+  {
+    "id": "a7bcc5149d7c2b1e77a35f594ef7aaeb",
+    "text": "Palatable Conceptions of Disembodied Being: Terra Incognita in the Space of Possible Minds",
+    "source": "ArXiv",
+    "link": "https://arxiv.org/format/2503.16348",
+    "timestamp": "2025-03-23T15:43:13.027655"
+  },
+  {
+    "id": "0fa5c99edc5656a39f3c58e173cc6641",
+    "text": "Issue2Test: Generating Reproducing Test Cases from Issue Reports",
+    "source": "ArXiv",
+    "link": "https://arxiv.org/format/2503.16320",
+    "timestamp": "2025-03-23T15:43:13.088452"
+  },
+  {
+    "id": "2ebdec68cbe254fc54d99a56b222594c",
+    "text": "Neurosymbolic Architectural Reasoning: Towards Formal Analysis through Neural Software Architecture Inference",
+    "source": "ArXiv",
+    "link": "https://arxiv.org/format/2503.16262",
+    "timestamp": "2025-03-23T15:43:13.088472"
+  },
+  {
+    "id": "7d2e6bc1b1728740329b3771cd762340",
+    "text": "CodeReviewQA: The Code Review Comprehension Assessment for Large Language Models",
+    "source": "ArXiv",
+    "link": "https://arxiv.org/format/2503.16167",
+    "timestamp": "2025-03-23T15:43:13.088484"
+  },
+  {
+    "id": "131720ae61b82c4cab76e6abda43a9a2",
+    "text": "Unify and Triumph: Polyglot, Diverse, and Self-Consistent Generation of Unit Tests with LLMs",
+    "source": "ArXiv",
+    "link": "https://arxiv.org/format/2503.16144",
+    "timestamp": "2025-03-23T15:43:13.088494"
+  },
+  {
+    "id": "ee3a7d307a5715a0af188220deaac530",
+    "text": "DevOps Automation Pipeline Deployment with IaC (Infrastructure as Code)",
+    "source": "ArXiv",
+    "link": "https://arxiv.org/format/2503.16038",
+    "timestamp": "2025-03-23T15:43:13.088504"
+  },
+  {
+    "id": "556add4f6c8d8bee8512bfcea440cd4f",
+    "text": "RFC\u00a09472: A YANG Data Model for Reporting Software Bills of Materials (SBOMs) and Vulnerability Information",
+    "source": "RFC",
+    "link": "https://www.rfc-editor.org/info/rfc9472",
+    "timestamp": "2025-03-23T15:43:13.663527"
+  },
+  {
+    "id": "1bd85a9adc0c0472f224611719f88049",
+    "text": "RFC\u00a09393: Concise Software Identification Tags",
+    "source": "RFC",
+    "link": "https://www.rfc-editor.org/info/rfc9393",
+    "timestamp": "2025-03-23T15:43:13.663564"
+  },
+  {
+    "id": "f5fa13a0fd534ef1acfed7c97be7c8be",
+    "text": "RFC\u00a09225: Software Defects Considered Harmful",
+    "source": "RFC",
+    "link": "https://www.rfc-editor.org/info/rfc9225",
+    "timestamp": "2025-03-23T15:43:13.663588"
+  },
+  {
+    "id": "357abb539e044cc6e7cca4e0e9b3e5da",
+    "text": "RFC\u00a09061: A YANG Data Model for IPsec Flow Protection Based on Software-Defined Networking (SDN)",
+    "source": "RFC",
+    "link": "https://www.rfc-editor.org/info/rfc9061",
+    "timestamp": "2025-03-23T15:43:13.663611"
+  },
+  {
+    "id": "12bf5fd0b9f2ebf533e9321fd49e9b40",
+    "text": "RFC\u00a09019: A Firmware Update Architecture for Internet of Things",
+    "source": "RFC",
+    "link": "https://www.rfc-editor.org/info/rfc9019",
+    "timestamp": "2025-03-23T15:43:13.663633"
+  },
+  {
+    "id": "3de506efc929d1a95bee1fb6ef4b8f56",
+    "text": "The SeL4 Microkernel: An Introduction [pdf]",
+    "source": "Hacker News",
+    "link": "https://sel4.systems/About/seL4-whitepaper.pdf",
+    "timestamp": "2025-03-23T15:43:14.299128"
+  },
+  {
+    "id": "13754408b6fc5315527f1b771b03a845",
+    "text": "A USB Interface to the \"Mother of All Demos\" Keyset",
+    "source": "Hacker News",
+    "link": "https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html",
+    "timestamp": "2025-03-23T15:43:14.612804"
+  },
+  {
+    "id": "407bad0bd7edd59bc030f2465ee1c041",
+    "text": "argp: GNU-style command line argument parser for Go",
+    "source": "Hacker News",
+    "link": "https://github.com/tdewolff/argp",
+    "timestamp": "2025-03-23T15:43:14.935059"
+  },
+  {
+    "id": "d6c1c18282ae4c58f147a581e2773622",
+    "text": "The Worst Programmer I Know (2023)",
+    "source": "Hacker News",
+    "link": "https://dannorth.net/the-worst-programmer/",
+    "timestamp": "2025-03-23T15:43:15.257701"
+  },
+  {
+    "id": "b4d80ba30a16fce14cc8683b788ef9e2",
+    "text": "Improving recommendation systems and search in the age of LLMs",
+    "source": "Hacker News",
+    "link": "https://eugeneyan.com/writing/recsys-llm/",
+    "timestamp": "2025-03-23T15:43:15.570150"
+  },
+  {
+    "id": "aa45109e821569441dc344c9eba19a12",
+    "text": "'Getting into DevOps'",
+    "source": "Reddit",
+    "link": "https://reddit.com/r/devops/comments/yjdscp/getting_into_devops/",
+    "timestamp": "2025-03-23T15:43:15.983948"
+  },
+  {
+    "id": "e56b0dfbb7ab83450888372e42afd8d3",
+    "text": "How should this sub respond to reddit's api changes, part 2",
+    "source": "Reddit",
+    "link": "https://reddit.com/r/devops/comments/14n6ghq/how_should_this_sub_respond_to_reddits_api/",
+    "timestamp": "2025-03-23T15:43:15.983975"
+  },
+  {
+    "id": "7d36149552f324ad25476f40b8de9adc",
+    "text": "Is it ever a good idea to split CI and CD across two providers?",
+    "source": "Reddit",
+    "link": "https://reddit.com/r/devops/comments/1jhvxam/is_it_ever_a_good_idea_to_split_ci_and_cd_across/",
+    "timestamp": "2025-03-23T15:43:15.983983"
+  },
+  {
+    "id": "b4aef6b1e3961391d1330eebdd436f1a",
+    "text": "Can we talk salaries? What's everyone making these days?",
+    "source": "Reddit",
+    "link": "https://reddit.com/r/devops/comments/1ji23fj/can_we_talk_salaries_whats_everyone_making_these/",
+    "timestamp": "2025-03-23T15:43:15.983991"
+  },
+  {
+    "id": "58c48bfff27af858ff0b9c233863aad4",
+    "text": "Python packages caching server",
+    "source": "Reddit",
+    "link": "https://reddit.com/r/devops/comments/1ji1qe4/python_packages_caching_server/",
+    "timestamp": "2025-03-23T15:43:15.984000"
+  },
+  {
+    "id": "54b8dfc56cf76424351092ea2751a6db",
+    "text": "What is the relation between CPU usage (percentage) and load average?",
+    "source": "Reddit",
+    "link": "https://reddit.com/r/devops/comments/1ji0fvc/what_is_the_relation_between_cpu_usage_percentage/",
+    "timestamp": "2025-03-23T15:43:15.984008"
+  },
+  {
+    "id": "dfde7a4160fcf64e2472ca5431990d5c",
+    "text": "IT Consultant starting into DevOps",
+    "source": "Reddit",
+    "link": "https://reddit.com/r/devops/comments/1ji13o6/it_consultant_starting_into_devops/",
+    "timestamp": "2025-03-23T15:43:15.984015"
+  },
+  {
+    "id": "333fe5c1cf1fecaadaf05493a7677e11",
+    "text": "Accessibility: No More Excuses, It's Time to Step Up",
+    "source": "Dev.to",
+    "link": "https://dev.to/wraith/accessibility-no-more-excuses-its-time-to-step-up-3b1l",
+    "timestamp": "2025-03-23T15:43:16.471438"
+  },
+  {
+    "id": "f0cc7ca63ab0e8f9b32c615fd415d283",
+    "text": "Interface vs Abstract Class?",
+    "source": "Dev.to",
+    "link": "https://dev.to/burakboduroglu/interface-vs-abstract-class-55ka",
+    "timestamp": "2025-03-23T15:43:16.471462"
+  },
+  {
+    "id": "bef3a9b464b82c94c03d601c65b5482a",
+    "text": "Weekly #12-2025: Astro 5.5, Tailwind Plus, TypeScript 7, and More",
+    "source": "Dev.to",
+    "link": "https://dev.to/weekly/astro-55-tailwind-plus-typescript-7-and-more-2pmd",
+    "timestamp": "2025-03-23T15:43:16.471466"
+  },
+  {
+    "id": "08ab24c93dbaed636419bc5daf13bd35",
+    "text": "Why Every Tech Interview Feels Like an Episode of \u2018Survivor\u2019",
+    "source": "Dev.to",
+    "link": "https://dev.to/hotfixhero/why-every-tech-interview-feels-like-an-episode-of-survivor-3b0l",
+    "timestamp": "2025-03-23T15:43:16.471469"
+  },
+  {
+    "id": "f51739171d407011916a29f63d414ea8",
+    "text": "The Leetcode Trap: Why Solving 1000 Problems Won\u2019t Make You a Real Problem Solver",
+    "source": "Dev.to",
+    "link": "https://dev.to/skilledcoder/the-leetcode-trap-why-solving-1000-problems-wont-make-you-a-real-problem-solver-22mg",
+    "timestamp": "2025-03-23T15:43:16.471473"
+  },
+  {
+    "id": "e9067bd78b51d6fc3e2742c41f20ad08",
+    "text": "GPT-4o Code Completion Model Now Available in Public Preview for VS Code Copilot",
+    "source": "InfoQ",
+    "link": "https://www.infoq.com/news/2025/03/gpt4o-code-completion-vscode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "timestamp": "2025-03-23T15:43:17.809361"
+  },
+  {
+    "id": "40d5afd1d4a6dc6ffd43e1d4702a48d1",
+    "text": "Roblox Releases Cube 3D, an AI Open-Source Model for 3D Model Generation",
+    "source": "InfoQ",
+    "link": "https://www.infoq.com/news/2025/03/roblox-cube-3d/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "timestamp": "2025-03-23T15:43:17.809399"
+  },
+  {
+    "id": "c0e968e09ff4f3468f086b2fbb9bf82f",
+    "text": "How GitHub Leverages CodeQL for Security",
+    "source": "InfoQ",
+    "link": "https://www.infoq.com/news/2025/03/how-github-uses-codeql-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "timestamp": "2025-03-23T15:43:17.809426"
+  },
+  {
+    "id": "8d83a8c203877449b2faf50c61834410",
+    "text": "Google Cloud Introduces HDD Tier for Spanner Database, Cutting Cold Storage Costs by 80%",
+    "source": "InfoQ",
+    "link": "https://www.infoq.com/news/2025/03/google-spanner-tiered-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "timestamp": "2025-03-23T15:43:17.809456"
+  },
+  {
+    "id": "18db383863f7958f10c380c3f1969e23",
+    "text": "Presentation: Rebuilding Prime Video UI with Rust and WebAssembly",
+    "source": "InfoQ",
+    "link": "https://www.infoq.com/presentations/prime-video-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "timestamp": "2025-03-23T15:43:17.809482"
+  },
+  {
+    "id": "323f75418c87be91e73da818a1366401",
+    "text": "Zed: The Next-Generation Code Editor for Collaboration with AI and Each Other",
+    "source": "Medium",
+    "link": "https://medium.com/@hotyler312/zed-the-next-generation-code-editor-for-collaboration-with-ai-and-each-other-ba9239f190f6?source=rss------software_development-5",
+    "timestamp": "2025-03-23T15:43:18.048219"
+  },
+  {
+    "id": "8e11de0e0e0c9a721ace54775824bc3b",
+    "text": "Building AI-powered applications with trustworthiness in mind\u200a\u2014\u200aengineering guide",
+    "source": "Medium",
+    "link": "https://medium.com/@nazarii.taran/building-ai-powered-applications-with-trustworthiness-in-mind-engineering-guide-c640f678d48e?source=rss------software_development-5",
+    "timestamp": "2025-03-23T15:43:18.048258"
+  },
+  {
+    "id": "ce847430d2c2b75030df4c995c32b3c2",
+    "text": "Is Vibe Coding Agile or Merely a Hype?",
+    "source": "Medium",
+    "link": "https://medium.com/10-min-briefing-on-startup-tech-news/vibe-coding-agile-stefan-wolpers-78a0d1dac341?source=rss------software_development-5",
+    "timestamp": "2025-03-23T15:43:18.048288"
+  },
+  {
+    "id": "0435c05c65e366defe1c538efa670723",
+    "text": "Don\u2019t fall in love with what you do too much",
+    "source": "Medium",
+    "link": "https://medium.com/@hewitt.trinh/dont-fall-in-love-with-what-you-do-too-much-55315cc98465?source=rss------software_development-5",
+    "timestamp": "2025-03-23T15:43:18.048318"
+  },
+  {
+    "id": "1e076330ff3a1ab6756a2d820fa429af",
+    "text": "The Minimum Viable Knowledge to Responsibly Use AI. Case in Point: Vibe Coding",
+    "source": "Medium",
+    "link": "https://medium.com/design-bootcamp/the-minimum-viable-knowledge-to-responsibly-use-ai-case-in-point-vibe-coding-d49d0004b2c2?source=rss------software_development-5",
+    "timestamp": "2025-03-23T15:43:18.048347"
+  }
+]
