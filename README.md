@@ -80,9 +80,9 @@ pip install pyaudio
 
 ---
 
-## ▶️ Step 4: Run the Application
+## ▶️ Step 4: Simply Run the Application 
 ```bash
-streamlit run app.py
+streamlit run frontend/app.py
 ```
 > This opens the assistant in your browser. You can enter a query, speak a question, or upload a screenshot.
 
