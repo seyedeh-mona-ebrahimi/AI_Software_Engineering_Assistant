@@ -50,6 +50,7 @@ Sources include:
 conda create -n capstone_env python=3.10
 conda activate capstone_env
 conda install pytorch torchvision torchaudio
+Please add your tokens to the ".env" file before running!
 ```
 
 ### ✅ Step 2: Install Required Python Libraries
