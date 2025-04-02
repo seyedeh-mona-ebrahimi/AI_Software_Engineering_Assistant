@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 from transformers import pipeline
@@ -25,7 +24,7 @@ wandb.login(key=wnb_token)
 
 ## mistralai/Mistral-7B-Instruct
 
-def load_model(hugging_face_token, model_name="openai-community/gpt2"):  
+def load_model(hugging_face_token, model_name="openai-community/gpt2-xl"):  
     # Load tokenizer with authentication token
     tokenizer = AutoTokenizer.from_pretrained(model_name, token=hugging_face_token)
 
@@ -34,7 +33,6 @@ def load_model(hugging_face_token, model_name="openai-community/gpt2"):
         tokenizer.pad_token = tokenizer.eos_token  
 
     # Explicitly add a special padding token
-=======
 import multiprocessing as mp
 mp.set_start_method("fork", force=True)
 
@@ -69,7 +67,7 @@ wandb.login(key=wandb_token)
 # Load Model
 # ------------------------
 def load_model(
-    base_model="openai-community/gpt2-large",
+    base_model="openai-community/gpt2-xl",
     lora_weights_path="./output",
     use_lora=False
 ):
@@ -77,14 +75,13 @@ def load_model(
 
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
->>>>>>> a4d9f9d (Updated modules and folder structure)
+
     tokenizer.add_special_tokens({'pad_token': '[PAD]'})
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
-<<<<<<< HEAD
     # Load model with authentication token
-    model = AutoModelForCausalLM.from_pretrained(model_name, token=hugging_face_token).to(device)
+    model = AutoModelForCausalLM.from_pretrained(base_model, token=hugging_face_token).to(device)
 
     # Resize model embeddings to match the updated tokenizer
     model.resize_token_embeddings(len(tokenizer))
@@ -126,9 +123,10 @@ def extract_relevant_info(documents, query=""):
     return " ".join(key_sentences[:5])
 
 
-def query_deepseek(query, documents, hugging_face_token):
+def query_deepseek(query, documents, model, tokenizer):
     """Improved response generation using summarized context."""
-    model, tokenizer = load_model(hugging_face_token)
+    #model, tokenizer = load_model(hugging_face_token)
+    #model, tokenizer= load_model()
     
     if not documents:
         return "I couldn't find any relevant information on this topic. Please refine your query."
@@ -168,7 +166,7 @@ def query_deepseek(query, documents, hugging_face_token):
 
     response = tokenizer.decode(outputs[0], skip_special_tokens=True)
     return response
-=======
+
     model = AutoModelForCausalLM.from_pretrained(
         base_model,
         device_map="auto" if device == "cuda" else None,
@@ -263,4 +261,3 @@ def query_ai(user_query, retrieved_docs, model, tokenizer):
     decoded = re.sub(r"(?i)user query.*", "", decoded).strip()
     cleaned = re.sub(r"[~*_>`#]", "", decoded)  # clean markdown-sensitive characters
     return cleaned.strip()
->>>>>>> a4d9f9d (Updated modules and folder structure)

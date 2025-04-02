@@ -1,13 +1,12 @@
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-<<<<<<< HEAD
 from langchain_community.vectorstores import FAISS, Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
 # Load embedding model
-embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-
+#embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/LaBSE")
 # Initialize ChromaDB with embedding function
 db = Chroma(persist_directory="./chroma_db", embedding_function=embedding_model)
 
@@ -39,12 +38,13 @@ def consistency_check(query, new_response, threshold=0.6):
         return False
     
     print(f"✅ Response is consistent. Max similarity: {max_sim:.2f}")
-=======
+
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 
 # Load embedding model
-embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/LaBSE")
+
+#embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
 # Initialize ChromaDB
 db = Chroma(persist_directory="./chroma_db", embedding_function=embedding_model)
@@ -92,5 +92,4 @@ def consistency_check(query, new_response, threshold=0.2):
         return False
 
     print(f"✅ Response is consistent. Max similarity: {max_sim:.3f}")
->>>>>>> a4d9f9d (Updated modules and folder structure)
     return True

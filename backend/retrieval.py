@@ -1,88 +1,33 @@
-<<<<<<< HEAD
-# from sentence_transformers import SentenceTransformer
-# import chromadb
-
-# # Load an embedding model
-# embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-
-# # Initialize ChromaDB with embedding function
-# chroma_client = chromadb.PersistentClient(path="./chroma_db")
-# collection = chroma_client.get_or_create_collection(name="my_collection")
-
-# def embed_texts(texts):
-#     return embedding_model.encode(texts).tolist()
-
-# def query_deepseek(query, documents, hugging_face_token):
-#     model, tokenizer = load_model(hugging_face_token)
-    
-#     # Convert documents to embeddings
-#     doc_texts = [doc['text'] for doc in documents]
-#     doc_embeddings = embed_texts(doc_texts)
-
-#     # Store in ChromaDB (avoid duplicates)
-#     for i, (doc, embedding) in enumerate(zip(doc_texts, doc_embeddings)):
-#         collection.add(
-#             documents=[doc], 
-#             embeddings=[embedding], 
-#             ids=[str(i)]  # Unique ID required
-#         )
-
-#     # Generate embedding for query
-#     query_embedding = [embedding_model.encode(query).tolist()]  # Fix format
-
-#     # Retrieve most relevant documents
-#     results = collection.query(query_embeddings=query_embedding, n_results=3)
-
-#     # Ensure results exist
-#     if not results["documents"]:
-#         return "No relevant documents found!"
-
-#     relevant_docs = [doc for doc in results["documents"][0]]  # Extract document texts
-
-#     # Generate response using model
-#     context = " ".join(relevant_docs)
-#     input_text = f"Query: {query}\nContext: {context}\nAnswer:"
-#     inputs = tokenizer(input_text, return_tensors="pt", truncation=True, padding=True)
-#     inputs = {key: value.to(model.device) for key, value in inputs.items()}
-#     outputs = model.generate(inputs['input_ids'], attention_mask=inputs['attention_mask'], max_length=500)
-    
-#     return tokenizer.decode(outputs[0], skip_special_tokens=True)
 
 
 from langchain_community.vectorstores import FAISS, Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from backend.arxiv_fetcher import fetch_all_sources
-
-=======
+from backend.fetcher import fetch_all_sources
+import re
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 from backend.fetcher import fetch_all_sources
->>>>>>> a4d9f9d (Updated modules and folder structure)
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import CrossEncoder
 from backend.AImodel import extract_relevant_info
-<<<<<<< HEAD
+
 # Load embedding model
 embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-=======
-import re 
 from backend.consistency import embedding_model
 
 # Load embedding model
 #embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
->>>>>>> a4d9f9d (Updated modules and folder structure)
 db = Chroma(persist_directory="./chroma_db", embedding_function=embedding_model)
 
 # TF-IDF-based retrieval
 vectorizer = TfidfVectorizer(stop_words='english')
 
 # Cross-encoder model for re-ranking
-<<<<<<< HEAD
+
 reranker = CrossEncoder("BAAI/bge-reranker-large")
-=======
+
 reranker = CrossEncoder("BAAI/bge-reranker-v2-m3")
->>>>>>> a4d9f9d (Updated modules and folder structure)
 
 def compute_bm25_scores(query, documents):
     """Computes BM25-like relevance scores using TF-IDF similarity."""
@@ -100,13 +45,7 @@ def compute_bm25_scores(query, documents):
         doc["relevance_score"] = scores[i]
 
     return documents
-<<<<<<< HEAD
-import re
 
-import re
-=======
-
->>>>>>> a4d9f9d (Updated modules and folder structure)
 
 def extract_relevant_info(documents, query=""):
     """Extracts key sentences related to the user query from retrieved documents."""
@@ -178,18 +117,18 @@ def hybrid_search(query, k=5):
         else:
             print(f"✅ Successfully fetched {len(documents)} new articles!")
 
-<<<<<<< HEAD
+
     documents = [
     {"text": doc.page_content, "source": doc.metadata.get("source", "unknown"), "link": doc.metadata.get("link", "#")}
     for doc in vector_results
     ]
-=======
+
     # documents = [
     # {"text": doc.page_content, "source": doc.metadata.get("source", "unknown"), "link": doc.metadata.get("link", "#")}
     # for doc in vector_results
     # ]
     documents = fetch_all_sources()
->>>>>>> a4d9f9d (Updated modules and folder structure)
+
     # Update the document text by extracting key sentences using the query:
     for doc in documents:
         doc["text"] = extract_relevant_info([doc], query=query)
@@ -220,8 +159,4 @@ def rank_retrieved_documents(documents):
         documents,
         key=lambda doc: (doc["trust_score"] * 0.5) + (doc["relevance_score"] * 0.5),
         reverse=True
-<<<<<<< HEAD
-    )
-=======
-    )
->>>>>>> a4d9f9d (Updated modules and folder structure)
+)

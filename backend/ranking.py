@@ -1,18 +1,22 @@
-<<<<<<< HEAD
+
 from langchain_community.vectorstores import FAISS, Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+import os
+from huggingface_hub import login
 
+hf_token = os.getenv("HUGGINGFACE_API_TOKEN")
+login(token=hf_token)
+#from backend.consistency import embedding_model
 # Trust scores for different sources
 source_trust_scores = {
     "arxiv.org": 0.9,
     "github.com": 0.8,
     "stackoverflow.com": 0.7,
-    "reddit.com": 0.3  # Less reliable
-=======
+    "reddit.com": 0.3}  # Less reliable
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
@@ -20,11 +24,11 @@ import numpy as np
 # new correct imports explicitly:
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
-from fetcher import fetch_all_sources
-from consistency import embedding_model
+from backend.fetcher import fetch_all_sources
+from backend.consistency import embedding_model
 # embedding model clearly defined
 #embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-
+embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/LaBSE")
 # explicitly fetch sources
 documents = fetch_all_sources()
 
@@ -52,8 +56,6 @@ source_trust_scores = {
     "dzone.com": 0.9, 
     "medium.com": 0.8,
     "scholarly": 0.5
-    
->>>>>>> a4d9f9d (Updated modules and folder structure)
 }
 
 # def get_source_trust(source):
@@ -63,11 +65,10 @@ source_trust_scores = {
 #             return source_trust_scores[key]
 #     return 0.5  # Default trust score
 def get_source_trust(source):
-<<<<<<< HEAD
     trust = {"ArXiv": 0.6, "GitHub": 0.8, "Stack Overflow": 0.8, "RFCs": 0.9}
-=======
+
     trust = {"ArXiv": 0.6, "GitHub": 0.9, "Stack Overflow": 0.9, "RFCs": 0.85}
->>>>>>> a4d9f9d (Updated modules and folder structure)
+
     return trust.get(source, 0.5)
 
 def rank_retrieved_documents(documents):
@@ -84,11 +85,11 @@ def rank_retrieved_documents(documents):
 
 
 # Initialize FAISS-based vector search
-<<<<<<< HEAD
-embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-=======
+
 #embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
->>>>>>> a4d9f9d (Updated modules and folder structure)
+
+#embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+
 db = Chroma(persist_directory="./chroma_db", embedding_function=embedding_model)
 
 # BM25-based search with TF-IDF
@@ -133,13 +134,13 @@ def hybrid_search(query, k=5):
 # Example usage:
 retrieved_docs = hybrid_search("latest AI frameworks")
 for doc in retrieved_docs:
-<<<<<<< HEAD
+
     print(f"🔹 {doc['text'][:100]}... (Source: {doc['source']}, Link: {doc['link']})")
 
 
 
 
 
-=======
+
     print(f"🔹 {doc['text'][:300]}... (Source: {doc['source']}, Link: {doc['link']})")
->>>>>>> a4d9f9d (Updated modules and folder structure)
+
