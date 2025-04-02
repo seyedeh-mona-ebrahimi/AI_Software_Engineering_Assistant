@@ -85,8 +85,8 @@ pip install pyaudio
 ```bash
 streamlit run frontend/app.py
 ```
-> This opens the assistant in your browser. You can enter a query, speak a question, or upload a screenshot.
-
+> This opens the assistant in your browser. You can enter a query, speak a question, or upload a screenshot and one gets the responses and links to the resources. 
+> In addition to that, a Json file includes the link and information you searched for in the query, will be saved too! Yaaaaaaaaay:)
 ---
 
 ## 🔄 System Workflow
